@@ -1,10 +1,12 @@
+import Card04 from './assets/Card04.jpg'
+
 const CardsList = [
     {
         id:1,
         date:"Jan 12, 2025",
         time:"5 min",
         text:"Powerful Ads, Bigger Results: Bigger Results: Elevate Your Brain ina Single Line! ",
-        imgUrl: "../assets/Card04.jpg",
+        imgUrl: Card04,
         imgAlt: "Primeiro imagem",
         name: "John Smith"        
     },
