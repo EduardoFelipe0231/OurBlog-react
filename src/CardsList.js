@@ -4,7 +4,7 @@ const CardsList = [
         date:"Jan 12, 2025",
         time:"5 min",
         text:"Powerful Ads, Bigger Results: Bigger Results: Elevate Your Brain ina Single Line! ",
-        imgUrl: "src/assets/Card04.jpg",
+        imgUrl: ".assets/Card04.jpg",
         imgAlt: "Primeiro imagem",
         name: "John Smith"        
     },
